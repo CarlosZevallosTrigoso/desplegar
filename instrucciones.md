@@ -1,6 +1,7 @@
 ---
 title: Instrucciones
 layout: page
+nav_order: 3
 ---
 
 Las instrucciones deben estar conformadas por:
