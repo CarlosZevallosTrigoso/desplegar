@@ -14,15 +14,15 @@ A través de este proceso, queremos abordar algunas interrogantes: ¿Es posible 
 
 El proyecto se desarrolla en cinco fases:
 
-Primera fase: convocatoria para cualquiera que desee participar en el proyecto enviando una propuesta de instrucciones para una acción performativa . Para ello solo deberán leer y seguir los lineamientos y hacernos llegar su propuesta a través de este formulario.  (https://www.dropbox.com/request/KxgEtMm6eLjSj5h63D4P)
+- **Primera fase:** convocatoria para cualquiera que desee participar en el proyecto enviando una propuesta de instrucciones para una acción performativa . Para ello solo deberán leer y seguir los lineamientos y hacernos llegar su propuesta a través de este formulario.  (https://www.dropbox.com/request/KxgEtMm6eLjSj5h63D4P)
 
-Segunda fase: revisión y selección de las propuestas desde un enfoque curatorial determinado por nosotros previamente y que pueden leer aquí. El objetivo es recopilar la mayor cantidad de propuestas siempre que dialoguen con las inquietudes de la convocatoria. A largo plazo, la idea es tener diferentes ediciones del proyecto, cada una con una temática diferente.
+- **Segunda fase:** revisión y selección de las propuestas desde un enfoque curatorial determinado por nosotros previamente y que pueden leer aquí. El objetivo es recopilar la mayor cantidad de propuestas siempre que dialoguen con las inquietudes de la convocatoria. A largo plazo, la idea es tener diferentes ediciones del proyecto, cada una con una temática diferente.
 
-Tercera fase: reuniones de trabajo entre nosotrxs (Rizoma) y lxs autorxs de las propuestas seleccionadas. Estas reuniones servirán para compartir y afianzar las propuestas según el marco curatorial que proponemos desde el proyecto.
+- **Tercera fase:** reuniones de trabajo entre nosotrxs (Rizoma) y lxs autorxs de las propuestas seleccionadas. Estas reuniones servirán para compartir y afianzar las propuestas según el marco curatorial que proponemos desde el proyecto.
 
-Cuarta fase: compilación, diagramación y publicación de un documento tipo fanzine con todas las instrucciones para una acción performativa seleccionadas y curadas en esta edición. El documento, al que llamaremos “Cuaderno de Instrucciones Nº1”, será difundido en formato físico y .pdf a través de nuestros medios sociales y otras plataformas.
+- **Cuarta fase:** compilación, diagramación y publicación de un documento tipo fanzine con todas las instrucciones para una acción performativa seleccionadas y curadas en esta edición. El documento, al que llamaremos “Cuaderno de Instrucciones Nº1”, será difundido en formato físico y .pdf a través de nuestros medios sociales y otras plataformas.
 
-Quinta fase: realización de un evento en un espacio físico, donde se exhibirán los resultados de X meses de circulación y uso del cuaderno de instrucciones Nº1. Las características de dicho evento serán coordinadas y desarrolladas en diálogo con todxs lxs participantes.
+- **Quinta fase:** realización de un evento en un espacio físico, donde se exhibirán los resultados de X meses de circulación y uso del cuaderno de instrucciones Nº1. Las características de dicho evento serán coordinadas y desarrolladas en diálogo con todxs lxs participantes.
 
 
 
