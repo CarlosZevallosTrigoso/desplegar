@@ -1,5 +1,5 @@
 ---
-title: Instrucciones
+title: Como enviar instrucciones
 layout: page
 nav_order: 3
 ---
