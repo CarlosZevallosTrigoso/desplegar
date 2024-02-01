@@ -1,5 +1,5 @@
 ---
-title: referencias
+title: Referencias
 layout: page
 nav_order: 6
 ---
