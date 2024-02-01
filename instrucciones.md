@@ -4,6 +4,8 @@ layout: page
 nav_order: 3
 ---
 
+## Guía para enviar instrucciones
+
 Las instrucciones deben estar conformadas por:
 
 Datos personales de la persona (o personas) que hacen la propuesta: nombre/s y apellido/s, correo electrónico y teléfono de contacto.
