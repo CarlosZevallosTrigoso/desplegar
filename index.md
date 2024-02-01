@@ -23,3 +23,16 @@ Tercera fase: reuniones de trabajo entre nosotrxs (Rizoma) y lxs autorxs de las 
 Cuarta fase: compilación, diagramación y publicación de un documento tipo fanzine con todas las instrucciones para una acción performativa seleccionadas y curadas en esta edición. El documento, al que llamaremos “Cuaderno de Instrucciones Nº1”, será difundido en formato físico y .pdf a través de nuestros medios sociales y otras plataformas.
 
 Quinta fase: realización de un evento en un espacio físico, donde se exhibirán los resultados de X meses de circulación y uso del cuaderno de instrucciones Nº1. Las características de dicho evento serán coordinadas y desarrolladas en diálogo con todxs lxs participantes.
+
+
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G12W09S1N3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G12W09S1N3');
+</script>
