@@ -1,6 +1,7 @@
 ---
 title: Acerca de
 layout: home
+nav_order: 1
 ---
 
 Desplegar es un proyecto de arte contemporáneo que nace a partir de una inquietud sobre la dimensión colaborativa y performativa de la producción artística. Se nutre de diversas reflexiones sobre lo procesual en la creación contemporánea y el rol del público como co-autor de sus experiencias estéticas. 
