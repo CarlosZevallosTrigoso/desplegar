@@ -1,5 +1,5 @@
 ---
-title: Acerca de
+title: Sobre el proyecto
 layout: home
 nav_order: 1
 ---
