@@ -14,10 +14,9 @@ A través de este proceso, queremos abordar algunas interrogantes: ¿Es posible 
 
 El proyecto se desarrolla en cinco fases:
 
-- **Primera fase:** convocatoria para cualquiera que desee participar en el proyecto enviando una propuesta de instrucciones para una acción performativa . Para ello solo deberán leer y seguir los lineamientos y hacernos llegar su propuesta a través de este formulario.  (https://www.dropbox.com/request/KxgEtMm6eLjSj5h63D4P) Fase Actual 
+Fase Actual 
 {: .label .label-red }
-
-
+- **Primera fase:** convocatoria para cualquiera que desee participar en el proyecto enviando una propuesta de instrucciones para una acción performativa . Para ello solo deberán leer y seguir los lineamientos y hacernos llegar su propuesta a través de este formulario.  (https://www.dropbox.com/request/KxgEtMm6eLjSj5h63D4P)
 
 - **Segunda fase:** revisión y selección de las propuestas desde un enfoque curatorial determinado por nosotros previamente y que pueden leer aquí. El objetivo es recopilar la mayor cantidad de propuestas siempre que dialoguen con las inquietudes de la convocatoria. A largo plazo, la idea es tener diferentes ediciones del proyecto, cada una con una temática diferente.
 
