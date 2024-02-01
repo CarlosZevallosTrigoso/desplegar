@@ -1,5 +1,5 @@
 ---
-title: Acerca del proyecto
+title: Acerca de
 layout: home
 ---
 
