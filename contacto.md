@@ -1,5 +1,5 @@
 ---
-title: contacto
+title: Contacto
 layout: page
 nav_order: 4
 ---
