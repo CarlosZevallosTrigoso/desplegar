@@ -1,35 +1,22 @@
 ---
-title: Home
+title: Acerca del proyecto
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+Desplegar es un proyecto de arte contemporáneo que nace a partir de una inquietud sobre la dimensión colaborativa y performativa de la producción artística. Se nutre de diversas reflexiones sobre lo procesual en la creación contemporánea y el rol del público como co-autor de sus experiencias estéticas. 
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Queremos crear una comunidad de creadorxs y re-creadorxs a partir de recopilar y curar instrucciones para realizar una acción performativa que unxs pueden proponer para que otrxs realicen; en un ejercicio similar a la creación de un tejido de relaciones entre subjetividades y experiencias. 
 
-More specifically, the created site:
+A través de este proceso, queremos abordar algunas interrogantes: ¿Es posible crear un proyecto de arte contemporáneo sin una noción excluyente de autoría? ¿Se puede pensar en la obra de arte como un flujo continuo entre sujetos y objetos? ¿Podemos problematizar los mandatos neoliberales de la autosuficiencia con arte colaborativo? entre otras.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+El proyecto se desarrolla en cinco fases:
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+Primera fase: convocatoria para cualquiera que desee participar en el proyecto enviando una propuesta de instrucciones para una acción performativa . Para ello solo deberán leer y seguir los lineamientos y hacernos llegar su propuesta a través de este formulario.  (https://www.dropbox.com/request/KxgEtMm6eLjSj5h63D4P)
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Segunda fase: revisión y selección de las propuestas desde un enfoque curatorial determinado por nosotros previamente y que pueden leer aquí. El objetivo es recopilar la mayor cantidad de propuestas siempre que dialoguen con las inquietudes de la convocatoria. A largo plazo, la idea es tener diferentes ediciones del proyecto, cada una con una temática diferente.
 
-To get started with creating a site, simply:
+Tercera fase: reuniones de trabajo entre nosotrxs (Rizoma) y lxs autorxs de las propuestas seleccionadas. Estas reuniones servirán para compartir y afianzar las propuestas según el marco curatorial que proponemos desde el proyecto.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+Cuarta fase: compilación, diagramación y publicación de un documento tipo fanzine con todas las instrucciones para una acción performativa seleccionadas y curadas en esta edición. El documento, al que llamaremos “Cuaderno de Instrucciones Nº1”, será difundido en formato físico y .pdf a través de nuestros medios sociales y otras plataformas.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+Quinta fase: realización de un evento en un espacio físico, donde se exhibirán los resultados de X meses de circulación y uso del cuaderno de instrucciones Nº1. Las características de dicho evento serán coordinadas y desarrolladas en diálogo con todxs lxs participantes.
