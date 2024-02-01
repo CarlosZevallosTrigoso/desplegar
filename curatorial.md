@@ -1,6 +1,7 @@
 ---
 title: Propuesta curatorial
 layout: page
+nav_order: 2
 ---
 
 El proyecto desplegar tiene por objetivo ser un espacio de reflexiones sobre arte contemporáneo a partir de la convocatoria, recopilación y curaduría de 
