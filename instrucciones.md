@@ -6,13 +6,15 @@ nav_order: 3
 
 ## Guía para enviar instrucciones
 
-Las instrucciones deben estar conformadas por:
+OJO: Participar en Desplegar comprende una noción fundamental de colaboración entre artistas y públicos/intérpretes que problematiza la idea de autosuficiencia en la creación artística. Sin embargo enviar una propuesta de instrucción no implica renunciar a la autoría de dicho trabajo. Todas las atribuciones serán debidamente señaladas en el documento publicado.
 
-Datos personales de la persona (o personas) que hacen la propuesta: nombre/s y apellido/s, correo electrónico y teléfono de contacto.
+Las propuestas deben ser enviadas a través de un documento en formato word o .pdf que contenga lo siguiente:
 
-Recursos: una descripción clara y detallada de todo lo necesario para realizar dicha acción performativa.
+Datos de la persona (o personas) que hacen la propuesta: nombre/s y apellido/s, correo electrónico y teléfono de contacto.
 
-Proceso/Instrucciones: una descripción clara y detallada del proceso de la acción performativa a modo de instrucciones para que cualquier persona pueda ejecutarla.
+Recursos: una descripción clara y detallada de todo lo necesario para que otra persona pueda realizar dicha acción performativa a partir de las instrucciones.
+
+Proceso/Instrucciones: una descripción clara y detallada del proceso de la acción performativa a modo de instrucciones.
 
 Esta descripción debe contar con:
 
@@ -21,15 +23,17 @@ Un inicio/apertura/comienzo.
 Una acción principal.
 Un cierre/desenlace.
 
-Propuesta de documentación: una descripción clara y detallada de una propuesta para el registro de toda la acción performativa.
-
-Puede descargar una plantilla en este enlace: https://docs.google.com/document/d/1pfoBriRMIKh-Z04eXwsz0YG1CPi7_8bm3hbRpVb3kws/edit?usp=sharing
+Puede descargar una plantilla para la propuesta en este enlace: https://docs.google.com/document/d/1pfoBriRMIKh-Z04eXwsz0YG1CPi7_8bm3hbRpVb3kws/edit?usp=sharing
 
 Algunas consideraciones:
 
-Toda la propuesta no debe tomar más de quinientas palabras, no hay un mínimo de palabras por acción.
-Una persona puede enviar más de una propuesta, pero para esta primera edición solo se seleccionará una de ellas.
-Es importante que la acción performativa no haya sido realizada previamente y que no demande conocimientos especializados, recursos costosos ni habilidades excepcionales. La idea es que la mayor cantidad de gente posible se sienta en la capacidad de seguir las instrucciones.
+Toda la propuesta no debe tener más de quinientas palabras, no hay un mínimo de palabras por acción.
+Es importante que la acción performativa no haya sido realizada previamente y que no demande conocimientos especializados, recursos costosos ni habilidades excepcionales para su interpretación. La idea es que la mayor cantidad de personas posible se sienta en la capacidad de seguir las instrucciones y volverse un o una intérprete.
+Siéntanse libres de enviar propuestas, aun cuando no tengan claro si se ajustan a la guía. Luego de la selección habrá un espacio para dialogar en torno a ellas antes de la publicación.
 
 
-Si bien las instrucciones sirven como una guía para la ejecución de la acción, y pueden especificar acciones, movimientos, interacciones con el entorno o con la audiencia, durante un determinado espacio de tiempo, estas también dejan espacio para la interpretación personal y la espontaneidad, creando un vínculo creativo entre el/la autor/a de las instrucciones y quiénes las reciban y ejecuten.
+Enlace para enviar:
+
+ENVIO
+(https://www.dropbox.com/request/KxgEtMm6eLjSj5h63D4P)
+
