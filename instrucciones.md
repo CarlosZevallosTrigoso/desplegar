@@ -6,7 +6,7 @@ nav_order: 3
 
 ## Guía para enviar instrucciones
 
-{: .highlight }
+{: .warning }
 Participar en Desplegar comprende una noción fundamental de colaboración entre artistas y públicos/intérpretes que problematiza la idea de autosuficiencia en la creación artística. Sin embargo enviar una propuesta de instrucción no implica renunciar a la autoría de dicho trabajo. Todas las atribuciones serán debidamente señaladas en el documento publicado.
 
 Las propuestas deben ser enviadas a través de un documento en formato word o .pdf que contenga lo siguiente:
@@ -38,9 +38,9 @@ Enlace para enviar:
 ENVIO
 (https://www.dropbox.com/request/KxgEtMm6eLjSj5h63D4P)
 
-
 callouts:
   warning:
-    title: Warning
+    title: OJO
     color: red
+
 
