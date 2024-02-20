@@ -9,23 +9,26 @@ nav_order: 1
 
 
 
-Desplegar es un proyecto de arte contemporáneo que nace a partir de una inquietud sobre la dimensión colaborativa y performativa de la producción artística. Se nutre de diversas reflexiones sobre lo procesual en la creación contemporánea y el rol del público como co-autor de sus experiencias estéticas. 
+Desplegar es un proyecto que nace a partir de una inquietud sobre la dimensión procesual y colaborativa de la producción artística contemporánea desde un formato particular: instrucciones para realizar una acción performativa. 
 
-Queremos crear una comunidad de creadorxs y re-creadorxs a partir de recopilar y curar instrucciones para realizar una acción performativa que unxs pueden proponer para que otrxs realicen; en un ejercicio similar a la creación de un tejido de relaciones entre subjetividades y experiencias. 
+El proyecto tiene dos fases:
 
-A través de este proceso, queremos abordar algunas interrogantes: ¿Es posible crear un proyecto de arte contemporáneo sin una noción excluyente de autoría? ¿Se puede pensar en la obra de arte como un flujo continuo entre sujetos y objetos? ¿Podemos problematizar los mandatos neoliberales de la autosuficiencia con arte colaborativo? entre otras.
+Una primera fase donde, a través de una convocatoria abierta, invitamos a enviar propuestas de instrucciones que serán revisadas y seleccionadas para luego ser incluídas en una publicación que circulará en formato físico y digital.
+Una segunda fase donde, a partir de la publicación, motivaremos la apropiación e interpretación de dichas instrucciones, buscando generar vínculos entre creadorxs de instrucciones e intérpretes. 
 
-El proyecto se desarrolla en cinco fases:
+Mediante este ejercicio, queremos dar forma a una comunidad en donde unxs toman el rol de creadores de instrucciones para realizar una acción performativa y otrxs el rol de intérpretes de estas acciones performativas.
 
-- **Primera fase:** convocatoria para cualquiera que desee participar en el proyecto enviando una propuesta de instrucciones para una acción performativa . Para ello solo deberán leer y seguir los lineamientos y hacernos llegar su propuesta a través de este formulario.  (https://www.dropbox.com/request/KxgEtMm6eLjSj5h63D4P)
+A través de este proceso, queremos abordar algunas interrogantes: ¿Se puede pensar en la obra de arte como un flujo entre sujetos y objetos? ¿Es posible crear una comunidad en torno a la idea de un arte con una autoría colaborativa, abierta y continua? ¿Toda obra de arte posee una dimensión performativa? ¿Qué retos, mandatos y posibilidades se revelan al abordar dicha dimensión performativa?
 
-- **Segunda fase:** revisión y selección de las propuestas desde un enfoque curatorial determinado por nosotros previamente y que pueden leer aquí. El objetivo es recopilar la mayor cantidad de propuestas siempre que dialoguen con las inquietudes de la convocatoria. A largo plazo, la idea es tener diferentes ediciones del proyecto, cada una con una temática diferente.
+Para participar en el proyecto solo deben leer la guía para elaborar instrucciones para realizar una acción performativa y elaborar una propuesta a partir de ella. Las propuestas recibidas en el lapso de tiempo de la convocatoria serán revisadas y haremos una selección a partir de criterios curatoriales que pueden conocer aquí.
 
-- **Tercera fase:** reuniones de trabajo entre nosotrxs (Rizoma) y lxs autorxs de las propuestas seleccionadas. Estas reuniones servirán para compartir y afianzar las propuestas según el marco curatorial que proponemos desde el proyecto.
+Luego de las selección, convocaremos a lxs creadores a reuniones de trabajo (presenciales o virtuales) con el objetivo de compartir y afianzar las instrucciones en relación al concepto del proyecto. 
 
-- **Cuarta fase:** compilación, diagramación y publicación de un documento tipo fanzine con todas las instrucciones para una acción performativa seleccionadas y curadas en esta edición. El documento, al que llamaremos “Cuaderno de Instrucciones Nº1”, será difundido en formato físico y .pdf a través de nuestros medios sociales y otras plataformas.
+Finalmente publicaremos un documento con las instrucciones para realizar una acción performativa seleccionadas y curadas en esta edición. La publicación, a la que llamaremos “Cuaderno de Instrucciones Nº1”, será difundida en formato físico y .pdf a través de nuestros medios sociales y otras plataformas dando inicio a la segunda fase del proyecto. 
 
-- **Quinta fase:** realización de un evento en un espacio físico, donde se exhibirán los resultados de X meses de circulación y uso del cuaderno de instrucciones Nº1. Las características de dicho evento serán coordinadas y desarrolladas en diálogo con todxs lxs participantes.
+
+
+Es importante señalar que el proyecto Desplegar se nutre de diversos proyectos, experiencias y reflexiones sobre lo procesual en la creación contemporánea y el rol del público como co-autor de sus experiencias estéticas; pueden revisarlos en nuestra sección de referencias. Lo que nos diferencia de la mayoría de estos antecedentes es que el foco de nuestro proyecto está en la conformación de una comunidad/red de creadorxs e intérpretes.
 
 
 
