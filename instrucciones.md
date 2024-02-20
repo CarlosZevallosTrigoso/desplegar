@@ -31,6 +31,4 @@ Algunas consideraciones:
 2. Es importante que la acción performativa no haya sido realizada previamente y que no demande conocimientos especializados, recursos costosos ni habilidades excepcionales para su interpretación. La idea es que la mayor cantidad de personas posible se sienta en la capacidad de seguir las instrucciones y volverse un o una intérprete.
 3. Siéntanse libres de enviar propuestas, aun cuando no tengan claro si se ajustan a la guía. Luego de la selección habrá un espacio para dialogar en torno a ellas antes de la publicación.
 
-Una vez elaborada la propuesta, enviarla a través de este enlace en formato de word o .pdf 
-
-[Enlace para enviar la propuesta](https://www.dropbox.com/request/KxgEtMm6eLjSj5h63D4P){: .btn .btn-purple }
+Una vez elaborada la propuesta, enviarla a través de este enlace en formato de word o .pdf: [Enlace para enviar la propuesta](https://www.dropbox.com/request/KxgEtMm6eLjSj5h63D4P){: .btn .btn-purple }
