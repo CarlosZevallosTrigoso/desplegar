@@ -33,4 +33,4 @@ Algunas consideraciones:
 
 Una vez elaborada la propuesta, enviarla a través de este enlace en formato de word o .pdf 
 
-[Enlace para enviar la propuesta]([https://just-the-docs.com](https://www.dropbox.com/request/KxgEtMm6eLjSj5h63D4P)){: .btn .btn-purple }
+[Enlace para enviar la propuesta](https://www.dropbox.com/request/KxgEtMm6eLjSj5h63D4P){: .btn .btn-purple }
