@@ -35,7 +35,6 @@ Una vez elaborada la propuesta, enviarla a través de este enlace en formato de 
 
 [Link button](https://just-the-docs.com){: .btn .btn-purple }
 
-ENVIO
-(https://www.dropbox.com/request/KxgEtMm6eLjSj5h63D4P)
+[Enlace para enviar](https://www.dropbox.com/request/KxgEtMm6eLjSj5h63D4P)
 
 
