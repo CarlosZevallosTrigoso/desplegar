@@ -8,7 +8,7 @@ nav_order: 6
 # Referencias
 
 
-1. Reseña web de la exposición “do it (2013-) curada por Hans Ulrich Obrist en la plataforma web de Curators International: https://curatorsintl.org/exhibitions/18072-do-it-2013
+1. Reseña web de la exposición “do it (2013-) curada por Hans Ulrich Obrist en la plataforma web de Curators International: [Enlace] (https://curatorsintl.org/exhibitions/18072-do-it-2013) 
 
 2. “do it (home)” fue una versión del proyecto “do it” desarrollado durante la pandemia por COVID-19: https://curatorsintl.org/records/20290-do-it-home 
 
