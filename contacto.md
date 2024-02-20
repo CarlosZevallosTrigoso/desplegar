@@ -4,7 +4,7 @@ layout: page
 nav_order: 4
 ---
 
-## Contacto
+# Contacto
 
 Desplegar es un proyecto de Rizoma.pe, una plataforma …. , ideada y gestionada por Melissa Navarro Reyes y Carlos Zevallos Trigoso.
 
