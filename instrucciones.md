@@ -8,6 +8,10 @@ nav_order: 3
 
 OJO: _Desplegar_ comprende una noción fundamental de colaboración entre artistas y públicos/intérpretes que problematiza la idea de autosuficiencia en la creación artística. Sin embargo enviar una propuesta de instrucción no implica renunciar a la autoría de dicho trabajo. Todas las atribuciones serán debidamente señaladas en el documento publicado.
 
+{: .note }
+A paragraph
+
+
 Las propuestas deben ser enviadas a través de un documento en formato word o .pdf que contenga lo siguiente:
 
 1. **Datos de la persona (o personas) que hacen la propuesta:** nombre/s y apellido/s, correo electrónico y teléfono de contacto.
