@@ -24,7 +24,7 @@ Esta descripción debe contar con:
 - Una acción principal.
 - Un cierre/desenlace.
 
-[Puede descargar una plantilla para la propuesta en este enlace](https://docs.google.com/document/d/1pfoBriRMIKh-Z04eXwsz0YG1CPi7_8bm3hbRpVb3kws/edit?usp=sharing target="_blank")
+[Puede descargar una plantilla para la propuesta en este enlace](https://docs.google.com/document/d/1pfoBriRMIKh-Z04eXwsz0YG1CPi7_8bm3hbRpVb3kws/edit?usp=sharing)
 
 Algunas consideraciones:
 
