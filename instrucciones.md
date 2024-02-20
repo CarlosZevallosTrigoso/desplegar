@@ -6,7 +6,7 @@ nav_order: 3
 
 # Guía para enviar instrucciones
 
-
+<br />
 
 
 Las propuestas deben ser enviadas a través de un documento en formato word o .pdf que contenga lo siguiente:
