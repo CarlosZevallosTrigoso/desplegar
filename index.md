@@ -4,31 +4,26 @@ layout: home
 nav_order: 1
 ---
 
-## Desplegar: procesos, secuencias, acciones, objetos, ensamblajes y cuerpos
+# Desplegar: procesos, secuencias, acciones, objetos, ensamblajes y cuerpos
 
+Desplegar es un proyecto que nace a partir de una inquietud sobre la dimensión procesual y colaborativa de la producción artística contemporánea desde un formato particular: _instrucciones para realizar una acción performativa_. 
 
+El proyecto tiene **dos fases:**
 
+- Una **primera fase** donde, a través de una convocatoria abierta, invitamos a enviar propuestas de instrucciones que serán revisadas y seleccionadas para luego ser incluídas en una publicación que circulará en formato físico y digital.
+- Una **segunda fase** donde, a partir de la publicación, motivaremos la apropiación e interpretación de dichas instrucciones, buscando generar vínculos entre creadorxs de instrucciones e intérpretes. 
 
-Desplegar es un proyecto que nace a partir de una inquietud sobre la dimensión procesual y colaborativa de la producción artística contemporánea desde un formato particular: instrucciones para realizar una acción performativa. 
-
-El proyecto tiene dos fases:
-
-Una primera fase donde, a través de una convocatoria abierta, invitamos a enviar propuestas de instrucciones que serán revisadas y seleccionadas para luego ser incluídas en una publicación que circulará en formato físico y digital.
-Una segunda fase donde, a partir de la publicación, motivaremos la apropiación e interpretación de dichas instrucciones, buscando generar vínculos entre creadorxs de instrucciones e intérpretes. 
-
-Mediante este ejercicio, queremos dar forma a una comunidad en donde unxs toman el rol de creadores de instrucciones para realizar una acción performativa y otrxs el rol de intérpretes de estas acciones performativas.
+Mediante este ejercicio, queremos dar forma a una comunidad en donde unxs toman el rol de creadores de _instrucciones para realizar una acción performativa_ y otrxs el rol de intérpretes de estas _acciones performativas_.
 
 A través de este proceso, queremos abordar algunas interrogantes: ¿Se puede pensar en la obra de arte como un flujo entre sujetos y objetos? ¿Es posible crear una comunidad en torno a la idea de un arte con una autoría colaborativa, abierta y continua? ¿Toda obra de arte posee una dimensión performativa? ¿Qué retos, mandatos y posibilidades se revelan al abordar dicha dimensión performativa?
 
-Para participar en el proyecto solo deben leer la guía para elaborar instrucciones para realizar una acción performativa y elaborar una propuesta a partir de ella. Las propuestas recibidas en el lapso de tiempo de la convocatoria serán revisadas y haremos una selección a partir de criterios curatoriales que pueden conocer aquí.
+Para participar en el proyecto solo deben leer la guía para elaborar _instrucciones para realizar una acción performativa_ y elaborar una propuesta a partir de ella. Las propuestas recibidas en el lapso de tiempo de la convocatoria serán revisadas y haremos una selección a partir de criterios curatoriales que pueden conocer aquí.
 
-Luego de las selección, convocaremos a lxs creadores a reuniones de trabajo (presenciales o virtuales) con el objetivo de compartir y afianzar las instrucciones en relación al concepto del proyecto. 
+Luego de las selección, convocaremos a lxs creadores a reuniones de trabajo (presenciales o virtuales) con el objetivo de compartir y afianzar las _instrucciones_ en relación al concepto del proyecto. 
 
-Finalmente publicaremos un documento con las instrucciones para realizar una acción performativa seleccionadas y curadas en esta edición. La publicación, a la que llamaremos “Cuaderno de Instrucciones Nº1”, será difundida en formato físico y .pdf a través de nuestros medios sociales y otras plataformas dando inicio a la segunda fase del proyecto. 
+Finalmente publicaremos un documento con las _instrucciones para realizar una acción performativa_ seleccionadas y curadas en esta edición. La publicación, a la que llamaremos _“Cuaderno de Instrucciones Nº1”_, será difundida en formato físico y .pdf a través de nuestros medios sociales y otras plataformas dando inicio a la **segunda fase** del proyecto. 
 
-
-
-Es importante señalar que el proyecto Desplegar se nutre de diversos proyectos, experiencias y reflexiones sobre lo procesual en la creación contemporánea y el rol del público como co-autor de sus experiencias estéticas; pueden revisarlos en nuestra sección de referencias. Lo que nos diferencia de la mayoría de estos antecedentes es que el foco de nuestro proyecto está en la conformación de una comunidad/red de creadorxs e intérpretes.
+Es importante señalar que el proyecto _Desplegar_ se nutre de diversos proyectos, experiencias y reflexiones sobre lo procesual en la creación contemporánea y el rol del público como co-autor de sus experiencias estéticas; pueden revisarlos en nuestra sección de referencias. Lo que nos diferencia de la mayoría de estos antecedentes es que el foco de nuestro proyecto está en la conformación de una comunidad/red de creadorxs e intérpretes.
 
 
 
