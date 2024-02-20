@@ -14,5 +14,5 @@ ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (t
 
 callouts:
 warning:
-title: ojo
+title: Warning
 color: red
