@@ -40,7 +40,7 @@ ENVIO
 
 callouts:
   warning:
-    title: OJO
+    title: Warning
     color: red
 
 
