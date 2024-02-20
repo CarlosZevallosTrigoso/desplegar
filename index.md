@@ -8,6 +8,7 @@ nav_order: 1
 
 
 
+
 Desplegar es un proyecto de arte contemporáneo que nace a partir de una inquietud sobre la dimensión colaborativa y performativa de la producción artística. Se nutre de diversas reflexiones sobre lo procesual en la creación contemporánea y el rol del público como co-autor de sus experiencias estéticas. 
 
 Queremos crear una comunidad de creadorxs y re-creadorxs a partir de recopilar y curar instrucciones para realizar una acción performativa que unxs pueden proponer para que otrxs realicen; en un ejercicio similar a la creación de un tejido de relaciones entre subjetividades y experiencias. 
