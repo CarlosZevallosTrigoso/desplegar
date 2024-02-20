@@ -38,9 +38,4 @@ Enlace para enviar:
 ENVIO
 (https://www.dropbox.com/request/KxgEtMm6eLjSj5h63D4P)
 
-callouts:
-  warning:
-    title: Warning
-    color: red
-
 
