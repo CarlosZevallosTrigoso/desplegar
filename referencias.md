@@ -8,12 +8,20 @@ nav_order: 6
 ## Referencias
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque laoreet nulla eget ullamcorper rhoncus. Donec pulvinar libero nec malesuada consectetur. Sed et justo vel sem gravida faucibus at ac lorem. In iaculis magna sed sagittis elementum. Etiam nibh dolor, vulputate vitae libero non, auctor iaculis augue. Nunc pretium pharetra lorem, imperdiet faucibus nisi bibendum non. Suspendisse sit amet laoreet ligula. Donec tortor dolor, ultrices et consectetur vitae, mattis ac est. Curabitur vel metus in dui feugiat euismod. Ut mi orci, mattis at dolor eu, volutpat pretium odio. Cras convallis non nisl eu porta. Pellentesque blandit augue vel vulputate volutpat.
+Reseña web de la exposición “do it (2013-) curada por Hans Ulrich Obrist en la plataforma web de Curators International: https://curatorsintl.org/exhibitions/18072-do-it-2013
 
-Suspendisse convallis dictum mollis. Vivamus porttitor feugiat molestie. Aenean quis nibh sit amet mauris aliquet vestibulum eget at arcu. Ut volutpat, ligula vitae elementum dignissim, felis magna facilisis nunc, ut cursus purus nisi ac elit. Curabitur scelerisque nunc laoreet odio tristique, a convallis nisi mollis. Vestibulum pharetra gravida fringilla. Integer velit ante, imperdiet vitae tempor et, efficitur et risus. Sed pretium condimentum orci, a iaculis massa vulputate a. Mauris fermentum velit vel nisl aliquet laoreet.
+“do it (home)” fue una versión del proyecto “do it” desarrollado durante la pandemia por COVID-19: https://curatorsintl.org/records/20290-do-it-home 
 
-Aenean mollis velit nisi, ut scelerisque enim gravida vel. Donec sed leo sapien. Vivamus urna justo, laoreet ut dui quis, aliquet mattis ex. In odio metus, tincidunt ac ipsum quis, dignissim eleifend metus. Donec tristique velit in ex dignissim placerat. Sed velit purus, dapibus a orci rhoncus, vestibulum dignissim arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Cras non enim vehicula, eleifend risus nec, accumsan libero. Duis ultrices porttitor elit, ut mollis dolor cursus at. Fusce eleifend viverra nunc nec pellentesque. Etiam odio mauris, ornare vitae urna vitae, elementum cursus ante. Sed posuere venenatis ante ut placerat. Fusce commodo risus arcu, at pretium mauris bibendum in. Nullam mauris lacus, sollicitudin at porttitor nec, consectetur id tellus.
+Altshuler, B. (2013). Art by Instruction and the Pre-History of Do it. En H. U. Obrist, Do it: The compendium. Independent Curators International/D.A.P. Accesible aquí: https://www.charlesgmiller.com/teaching/177/DOIT.pdf
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam vestibulum dui ut sapien tempor iaculis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed mollis mi ac sodales tincidunt. Sed ornare mi eu facilisis rhoncus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer consequat pharetra est.
+Libro de instrucciones de Yoko Ono titulado “Grapefruit (Pomelo)” y publicado en 1964. Aquí la edición en inglés:  https://monoskop.org/images/6/64/Ono_Yoko_Grapefruit_A_Book_of_Instructions_and_Drawings_2000.pdf
 
-Nullam ut tortor a mi molestie convallis. Quisque suscipit nisi quis mi consequat, at porta lacus sagittis. Ut mattis metus eget velit imperdiet blandit. Suspendisse orci nulla, rhoncus in lacinia et, blandit eget nisi. Ut malesuada bibendum tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vestibulum erat porttitor, sagittis risus at, posuere dolor. In viverra suscipit leo ut mattis. Sed tempus tristique vehicula. Praesent ac sapien efficitur, hendrerit odio id, consequat augue. Donec malesuada, neque sed aliquet malesuada, sem dui volutpat massa, ac rutrum nulla arcu sit amet libero. Aenean et cursus neque. Sed efficitur diam vel velit tempor, ut interdum mi dignissim. 
+y en español: https://monoskop.org/images/8/83/Ono_Yoko_Pomelo_Un_libro_de_instrucciones_de_Yoko_Ono.pdf
+
+The Fluxus Performance Workbook: https://www.thing.net/~grist/ld/fluxusworkbook.pdf
+
+Proyecto “Book as Exhibition”: https://book-as-exhibition.org/
+
+Artículo en Artsy sobre las instrucciones de artistas: https://www.artsy.net/article/artsy-editorial-understanding-11-great-artists-instructions-left
+
+Proyecto “Idea Art for Kids” de Mark A. Rodriguez: https://zolo.press/books/idea-art-for-kids
