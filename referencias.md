@@ -26,3 +26,5 @@ nav_order: 6
 8. Artículo en Artsy sobre las instrucciones de artistas: [Enlace](https://www.artsy.net/article/artsy-editorial-understanding-11-great-artists-instructions-left)
 
 9. Proyecto **_“Idea Art for Kids”_** de Mark A. Rodriguez: [Enlace](https://zolo.press/books/idea-art-for-kids)
+    
+10. En el libro “Performance y Arte contemporáneo” de Juan Albarrán hay una valiosa sección sobre Instrucciones y Re-escenificaciones: [Enlace](https://catedra.com/libro/basicos-arte-catedra/performance-y-arte-contemporaneo-juan-albarran-9788437640341)
