@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-[](/Ban.png)
+![](/Ban.png)
 
 # Desplegar: procesos, secuencias, acciones, objetos, ensamblajes y cuerpos 
 <br />
