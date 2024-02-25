@@ -5,8 +5,7 @@ nav_order: 6
 ---
 
 
-# **Referencias**
-<br />
+## **Referencias**
 
 1. Reseña web de la exposición **_“do it"_** (2013-) curada por Hans Ulrich Obrist en la plataforma web de Curators International: [Enlace](https://curatorsintl.org/exhibitions/18072-do-it-2013){: target="_blank" }
 
