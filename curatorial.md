@@ -4,9 +4,9 @@ layout: page
 nav_order: 3
 ---
 
-# **Propuesta Curatorial**
+## **Propuesta Curatorial**
 
-## 1ra edición (Febrero 2024): “Cuerpo am/pm”
+### 1ra edición (Febrero 2024): “Cuerpo am/pm”
 <br />
 En esta edición, proponemos pensar la acción performativa o performance poniendo atención en: las disposiciones, convenciones, sujeciones, idealizaciones y/o artificios relacionados a la corporalidad en su organización temporal representada en la noción de “día”. Esperamos que todas las propuestas de _instrucciones para una acción performativa_ tomen como punto de partida estas inquietudes.
 
