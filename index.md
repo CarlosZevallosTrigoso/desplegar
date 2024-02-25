@@ -28,7 +28,8 @@ Luego de las selección, convocaremos a lxs creadores a reuniones de trabajo (pr
 
 Finalmente publicaremos un documento con las _instrucciones para realizar una acción performativa_ seleccionadas y curadas en esta edición. La publicación, a la que llamaremos _“Cuaderno de Instrucciones Nº1”_, será difundida en formato físico y .pdf a través de nuestros medios sociales y otras plataformas dando inicio a la **segunda fase** del proyecto. 
 
-Es importante señalar que el proyecto _Desplegar_ se nutre de diversos proyectos, experiencias y reflexiones sobre lo procesual en la creación contemporánea y el rol del público como co-autor de sus experiencias estéticas; pueden revisarlos en nuestra sección de referencias. Lo que nos diferencia de la mayoría de estos antecedentes es que el foco de nuestro proyecto está en la conformación de una comunidad/red de creadorxs e intérpretes.
+{: .note }
+Es importante señalar que el proyecto _Desplegar_ se nutre de diversos proyectos, experiencias y reflexiones sobre lo procesual en la creación contemporánea y el rol del público como co-autor de sus experiencias estéticas; pueden revisarlos en [nuestra sección de referencias](https://desplegar.info/referencias.html){: target="_blank" }. Lo que nos diferencia de la mayoría de estos antecedentes es que el foco de nuestro proyecto está en la conformación de una comunidad/red de creadorxs e intérpretes.
 
 
 
