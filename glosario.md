@@ -12,9 +12,11 @@ Son piezas textuales donde se describen los pasos a seguir y recursos a utilizar
 <br />
 
 ### Autoría compartida (creación/interpretación, recepción, significado)
+Proponemos aproximarnos a la acción performativa como un espacio de interacción social para el disenso y consenso entre un grupo de individuos que movilice instancias de creación e interpretación. En Desplegar partimos de una noción de “autoría compartida” para poner en tensión convenciones sobre la “identidad artística”, “el estilo propio” y la idea de “creador como autor singular” de la obra. El fin último es hacer evidente el potencial de las acciones performativas como espacio para la producción de identidades plurales, colaborativas y maleables.
 <br />
 
 ### Cuerpo y performatividad (subjetividades y archivo/repertorio)
+Decidimos mirar el cuerpo desde su capacidad de acción y de agencia frente al corsé que conforman los mandatos que las instituciones cristalizan en forma de dispositivos como “el género”, “la raza”, “la edad”, “la identidad”, entre otros. Esta capacidad de acción de los cuerpos evidencia que los hábitos in-corporados no son simplemente el resultado de la acumulación y sedimentación de prácticas, costumbres y/o tradiciones sino que, los cuerpos son capaces de exceder la norma mediante actos repetitivos-performativos con el poder de reelaborar los sentidos y con ello, de transformar la realidad o entorno. De esta manera, los actos performativos no solo no solo comunican significado, sino que también tienen un impacto efectivo y duradero en el mundo.
 <br />
 
 ### Curaduría (colaboración, sociedad, etc)
