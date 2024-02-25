@@ -4,7 +4,7 @@ layout: page
 nav_order: 3
 ---
 
-# Guía para enviar instrucciones
+# **Guía para enviar instrucciones**
 
 <br />
 
