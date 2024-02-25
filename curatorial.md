@@ -4,7 +4,7 @@ layout: page
 nav_order: 2
 ---
 
-# Propuesta Curatorial
+# **Propuesta Curatorial**
 
 ## 1ra edición (Febrero 2024): “Cuerpo am/pm”
 <br />
