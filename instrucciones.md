@@ -7,8 +7,9 @@ nav_order: 3
 # **Como participar**
 <br />
 
+Para participar en el proyecto solo deben elaborar una propuesta de _instrucción para realizar una acción performativa_ y enviarla a durante **todo marzo del 2024** en formato word o .pdf.
 
-Para participar en el proyecto solo deben leer esta guía, elaborar una propuesta y enviarla a través de [este enlace](https://www.dropbox.com/request/KxgEtMm6eLjSj5h63D4P){: target="_blank" } **durante todo marzo del 2024**. Las propuestas deben ser enviadas a través de un documento en formato word o .pdf que contenga lo siguiente:
+Las propuestas deben incluir lo siguiente:
 
 1. **Datos de la persona (o personas) que hacen la propuesta:** nombre/s y apellido/s, correo electrónico y teléfono de contacto.
 
