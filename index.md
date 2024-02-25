@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-![](/rizoma.png)
+![](/rizoma2.png)
 
 ## **Desplegar: procesos, secuencias, acciones, objetos, ensamblajes y cuerpos** 
 
