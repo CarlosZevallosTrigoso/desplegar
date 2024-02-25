@@ -33,8 +33,6 @@ Finalmente publicaremos un documento con las _instrucciones para realizar una ac
 Es importante señalar que el proyecto _Desplegar_ se nutre de diversos proyectos, experiencias y reflexiones sobre lo procesual en la creación contemporánea y el rol del público como co-autor de sus experiencias estéticas; pueden revisarlos en [nuestra sección de referencias](https://desplegar.info/referencias.html){: target="_blank" }. Lo que nos diferencia de la mayoría de estos antecedentes es que el foco de nuestro proyecto está en la conformación de una comunidad/red de creadorxs e intérpretes.
 
 
-
-
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-G12W09S1N3"></script>
 <script>
