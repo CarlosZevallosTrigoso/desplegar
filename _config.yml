@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://desplegar.info
 
 aux_links:
-  Rizoma.pe: https://rizoma.pe
+  Rizoma.pe: https://rizoma.pe{: target="_blank" }
 
 # Google Analytics Tracking (optional)
 # Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
