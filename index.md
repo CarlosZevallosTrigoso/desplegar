@@ -20,6 +20,7 @@ Mediante este ejercicio, queremos dar forma a una comunidad en donde unxs toman 
 
 A través de este proceso, queremos abordar algunas interrogantes: ¿Se puede pensar en la obra de arte como un flujo entre sujetos y objetos? ¿Es posible crear una comunidad en torno a la idea de un arte con una autoría colaborativa, abierta y continua? ¿Toda obra de arte posee una dimensión performativa? ¿Qué retos, mandatos y posibilidades se revelan al abordar dicha dimensión performativa?
 <br />
+
 {: .note }
 Es importante señalar que el proyecto _Desplegar_ se nutre de diversos proyectos, experiencias y reflexiones sobre lo procesual en la creación contemporánea y el rol del público como co-autor de sus experiencias estéticas; pueden revisarlos en [nuestra sección de referencias](https://desplegar.info/referencias.html){: target="_blank" }. Lo que nos diferencia de la mayoría de estos antecedentes es que el foco de nuestro proyecto está en la conformación de una comunidad/red de creadorxs e intérpretes.
 
