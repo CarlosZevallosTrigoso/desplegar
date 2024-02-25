@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-![](/Ban.png)
+![](/Ban2.png)
 
 # **desplegar: procesos, secuencias, acciones, objetos, ensamblajes y cuerpos** 
 <br />
@@ -13,7 +13,7 @@ Desplegar es un proyecto que nace a partir de una inquietud sobre la dimensión 
 
 El proyecto tiene **dos fases:**
 
-- Una **primera fase** donde, a través de una convocatoria abierta, invitamos a enviar propuestas de instrucciones que serán revisadas y seleccionadas para luego ser compiladas en una publicación que circulará en formato físico y digital.
+- Una **primera fase** donde, a través de una convocatoria abierta, invitamos a [enviar propuestas de instrucciones](https://desplegar.info/instrucciones.html){: target="_blank" } que serán revisadas y seleccionadas para luego ser compiladas en una publicación que circulará en formato físico y digital.
 - Una **segunda fase** donde, a partir de la publicación, motivaremos la apropiación e interpretación de dichas instrucciones, buscando generar vínculos entre creadorxs de instrucciones e intérpretes. 
 
 Mediante este ejercicio, queremos dar forma a una comunidad en donde unxs toman el rol de creadorxs de _instrucciones para realizar una acción performativa_ y otrxs el rol de intérpretes de estas _acciones performativas_.
