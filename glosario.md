@@ -4,7 +4,7 @@ layout: page
 nav_order: 5
 ---
 
-# Glosario
+# **Glosario**
 <br />
 
 ### Instrucciones para realizar una acción performativa
