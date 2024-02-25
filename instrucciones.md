@@ -1,10 +1,10 @@
 ---
-title: Como participar
+title: Cómo participar
 layout: page
 nav_order: 2
 ---
 
-# **Como participar**
+# **Cómo participar**
 <br />
 
 Para participar en el proyecto solo deben elaborar una propuesta de _instrucción para realizar una acción performativa_ y enviarla a durante **todo marzo del 2024** en formato word o .pdf.
