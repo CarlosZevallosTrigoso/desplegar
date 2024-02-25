@@ -1,15 +1,14 @@
 ---
-title: Como enviar instrucciones
+title: Como participar
 layout: page
 nav_order: 3
 ---
 
-# **Guía para enviar instrucciones**
-
+# **Como participar**
 <br />
 
 
-Las propuestas deben ser enviadas a través de un documento en formato word o .pdf que contenga lo siguiente:
+Para participar en el proyecto solo deben leer esta guía, elaborar una propuesta y enviarla a través de [este enlace](https://www.dropbox.com/request/KxgEtMm6eLjSj5h63D4P){: target="_blank" } **durante todo marzo del 2024**. Las propuestas deben ser enviadas a través de un documento en formato word o .pdf que contenga lo siguiente:
 
 1. **Datos de la persona (o personas) que hacen la propuesta:** nombre/s y apellido/s, correo electrónico y teléfono de contacto.
 
@@ -36,6 +35,9 @@ Una vez elaborada la propuesta, enviarla a través de este enlace en formato de 
 
 
 [Enlace para enviar la propuesta](https://www.dropbox.com/request/KxgEtMm6eLjSj5h63D4P){: .btn .btn-purple target="_blank" }
+
+Revisaremos las propuestas enviadas para hacer una selección tomando como marco los criterios curatoriales [que pueden conocer aquí](https://desplegar.info/curatorial.html){: target="_blank" }. Tras la selección, convocaremos a reuniones de trabajo (presenciales o virtuales) con el objetivo de compartir y afianzar las instrucciones en relación al concepto del proyecto. Finalmente publicaremos un documento con las instrucciones para realizar una acción performativa seleccionadas y curadas en esta edición.
+<br />
 
 {: .note }
 _Desplegar_ comprende una noción fundamental de colaboración entre artistas y públicos/intérpretes que problematiza la idea de autosuficiencia en la creación artística. Sin embargo enviar una propuesta de instrucción no implica renunciar a la autoría de dicho trabajo. Todas las atribuciones serán debidamente señaladas en el documento publicado.
