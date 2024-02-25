@@ -9,7 +9,7 @@ nav_order: 1
 # **desplegar: procesos, secuencias, acciones, objetos, ensamblajes y cuerpos** 
 <br />
 
-Desplegar es un proyecto que nace a partir de una inquietud sobre la dimensión procesual y colaborativa de la producción artística contemporánea desde un formato particular: _una compilación de instrucciones para realizar una acción performativa_.
+Desplegar es un proyecto que nace a partir de una inquietud sobre la dimensión procesual y colaborativa de la producción artística contemporánea desde un formato particular: una compilación de _instrucciones para realizar una acción performativa_.
 
 El proyecto tiene **dos fases:**
 
