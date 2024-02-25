@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-![](/rizoma2.png)
+[![](/rizoma2.png)](https://rizoma.pe/){: target="_blank" }
 
 ## **Desplegar: procesos, secuencias, acciones, objetos, ensamblajes y cuerpos** 
 
