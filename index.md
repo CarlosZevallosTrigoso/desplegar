@@ -20,7 +20,7 @@ Mediante este ejercicio, queremos dar forma a una comunidad en donde unxs toman 
 
 A través de este proceso, queremos abordar algunas interrogantes: ¿Se puede pensar en la obra de arte como un flujo entre sujetos y objetos? ¿Es posible crear una comunidad en torno a la idea de un arte con una autoría colaborativa, abierta y continua? ¿Toda obra de arte posee una dimensión performativa? ¿Qué retos, mandatos y posibilidades se revelan al abordar dicha dimensión performativa?
 
-Para participar en el proyecto solo deben leer [la guía](https://desplegar.info/instrucciones.html){: target="_blank" } para elaborar _instrucciones para realizar una acción performativa_ y elaborar una propuesta a partir de ella. Las propuestas recibidas en el lapso de tiempo de la convocatoria serán revisadas y haremos una selección a partir de criterios curatoriales que pueden conocer [aquí](https://desplegar.info/curatorial.html){: target="_blank" }.
+{: .note } Para participar en el proyecto solo deben leer [la guía](https://desplegar.info/instrucciones.html){: target="_blank" } para elaborar _instrucciones para realizar una acción performativa_ y elaborar una propuesta a partir de ella. Las propuestas recibidas en el lapso de tiempo de la convocatoria serán revisadas y haremos una selección a partir de criterios curatoriales que pueden conocer [aquí](https://desplegar.info/curatorial.html){: target="_blank" }.
 
 Luego de las selección, convocaremos a lxs creadores a reuniones de trabajo (presenciales o virtuales) con el objetivo de compartir y afianzar las _instrucciones_ en relación al concepto del proyecto. 
 
