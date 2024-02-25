@@ -28,3 +28,5 @@ nav_order: 6
 9. Proyecto **_“Idea Art for Kids”_** de Mark A. Rodriguez: [Enlace](https://zolo.press/books/idea-art-for-kids){: target="_blank" }
     
 10. En el libro “Performance y Arte contemporáneo” de Juan Albarrán hay una valiosa sección sobre Instrucciones y Re-escenificaciones: [Enlace](https://catedra.com/libro/basicos-arte-catedra/performance-y-arte-contemporaneo-juan-albarran-9788437640341){: target="_blank" }
+
+11. Escaramuzas para gestionar la realidad: estrategias colaborativas en el arte cubano contemporáneo: [Enlace](https://susetsanchez.files.wordpress.com/2012/09/estrategias-colaborativas-en-el-arte-cubano-contemporacc81neo.pdf){: target="_blank" } 
