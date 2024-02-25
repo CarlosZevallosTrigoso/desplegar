@@ -4,10 +4,9 @@ layout: home
 nav_order: 1
 ---
 
-![](/ban2.png)
+![](/rizoma.png)
 
 ## **desplegar: procesos, secuencias, acciones, objetos, ensamblajes y cuerpos** 
-<br />
 
 Desplegar es un proyecto que nace a partir de una inquietud sobre la dimensión procesual y colaborativa de la producción artística contemporánea desde un formato particular: una compilación de _instrucciones para realizar una acción performativa_.
 
