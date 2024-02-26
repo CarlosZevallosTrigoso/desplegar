@@ -21,7 +21,7 @@ A través de este proceso, queremos abordar algunas interrogantes: _¿Se puede p
 <br />
 
 {: .note }
-Es importante señalar _Desplegar_ se nutre de diversas experiencias y reflexiones sobre lo procesual en la creación contemporánea y el rol del público como co-autor de sus experiencias estéticas; pueden revisarlos en [nuestra sección de referencias](https://desplegar.info/referencias.html){: target="_blank" }. Lo que nos diferencia de la mayoría de estos antecedentes es que el foco de nuestro proyecto está en la conformación de una comunidad/red de creadorxs e intérpretes.
+Es importante señalar _desplegar_ se nutre de diversas experiencias y reflexiones sobre lo procesual en la creación contemporánea y el rol del público como co-autor de sus experiencias estéticas; pueden revisarlos en [nuestra sección de referencias](https://desplegar.info/referencias.html){: target="_blank" }. Lo que nos diferencia de la mayoría de estos antecedentes es que el foco de nuestro proyecto está en la conformación de una comunidad/red de creadorxs e intérpretes.
 
 
 <!-- Google tag (gtag.js) -->
