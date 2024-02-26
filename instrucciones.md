@@ -28,9 +28,8 @@ Esta descripción debe contar con:
 **Algunas consideraciones:**
 
 1. Enviar una propuesta a _desplegar_ implica un interés en participar de la publicación compilatoria que titularemos: "Cuaderno de Instrucciones N°1".
-2. Toda la propuesta no debe tener más de quinientas palabras, no hay un mínimo de palabras por acción.
-3. Es importante que la acción performativa no haya sido realizada previamente y que no demande conocimientos especializados, recursos costosos ni habilidades excepcionales para su interpretación. La idea es que la mayor cantidad de personas posible se sienta en la capacidad de seguir las instrucciones y volverse un o una intérprete.
-4. Siéntanse libres de enviar propuestas, aun cuando no tengan claro si se ajustan a la guía. Luego de la selección habrá un espacio para dialogar en torno a ellas antes de la publicación.
+2. Es importante que la acción performativa no haya sido realizada previamente y que no demande conocimientos especializados, recursos costosos ni habilidades excepcionales para su interpretación. La idea es que la mayor cantidad de personas posible se sienta en la capacidad de seguir las instrucciones y volverse un o una intérprete.
+3. Siéntanse libres de enviar propuestas, aun cuando no tengan claro si se ajustan a la guía. Luego de la selección habrá un espacio para dialogar en torno a ellas antes de la publicación.
 
 Una vez elaborada la propuesta, enviarla a través del siguiente enlace en formato de word o .pdf: 
 
