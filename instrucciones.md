@@ -25,7 +25,7 @@ Esta descripción debe contar con:
 
 [Puede descargar una plantilla para elaborar la propuesta en este enlace](https://docs.google.com/document/d/1pfoBriRMIKh-Z04eXwsz0YG1CPi7_8bm3hbRpVb3kws/edit?usp=sharing){: target="_blank" }
 
-Algunas consideraciones:
+**Algunas consideraciones:**
 
 1. Enviar una propuesta a _desplegar_ implica un interés en participar de la publicación compilatoria que titularemos: "Cuaderno de Instrucciones N°1".
 2. Toda la propuesta no debe tener más de quinientas palabras, no hay un mínimo de palabras por acción.
