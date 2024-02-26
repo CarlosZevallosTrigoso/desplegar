@@ -36,7 +36,7 @@ Una vez elaborada la propuesta, enviarla a través del siguiente enlace en forma
 
 [Enlace para enviar la propuesta](https://www.dropbox.com/request/KxgEtMm6eLjSj5h63D4P){: .btn .btn-purple target="_blank" }
 
-Revisaremos las propuestas enviadas para hacer una selección tomando como marco los criterios curatoriales [que pueden conocer aquí](https://desplegar.info/curatorial.html){: target="_blank" }. Tras la selección, convocaremos a reuniones de trabajo (presenciales o virtuales) con el objetivo de compartir y afianzar las instrucciones en relación al concepto del proyecto. Finalmente publicaremos un documento con las instrucciones para realizar una acción performativa seleccionadas y curadas en esta edición.
+Revisaremos las propuestas enviadas para hacer una selección tomando como marco los criterios curatoriales [que pueden conocer aquí](https://desplegar.info/curatorial.html){: target="_blank" }. Tras la selección, convocaremos a reuniones de trabajo (presenciales o virtuales) con el objetivo de compartir y afianzar las instrucciones en relación al concepto del proyecto.
 <br />
 
 {: .note }
