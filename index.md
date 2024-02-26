@@ -8,11 +8,11 @@ nav_order: 1
 
 ## **Desplegar: procesos, secuencias, acciones, objetos, ensamblajes y cuerpos** 
 
-Desplegar es un proyecto que nace a partir de una inquietud sobre la dimensión procesual y colaborativa de la producción artística contemporánea desde un formato particular: una compilación de _instrucciones para realizar una acción performativa_.
+_Desplegar_ es un proyecto que nace de una inquietud sobre la dimensión procesual y colaborativa de la producción artística contemporánea desde una dinámica particular: la compilación de _instrucciones para realizar una acción performativa_ a través de una convocatoria abierta.
 
 El proyecto tiene **dos fases:**
 
-- Una **primera fase** donde, a través de una convocatoria abierta, invitamos a [enviar propuestas de instrucciones](https://desplegar.info/instrucciones.html){: target="_blank" } que serán revisadas y seleccionadas, para luego ser **compiladas en una publicación que circulará en formato físico y digital.**
+- Una **primera fase** donde invitamos a [enviar propuestas de instrucciones](https://desplegar.info/instrucciones.html){: target="_blank" } que serán revisadas y seleccionadas, para luego ser **compiladas en una publicación que circulará en formato físico y digital.**
 - Una **segunda fase** donde, a partir de la publicación, motivaremos la apropiación e interpretación de dichas instrucciones, buscando generar una comunidad entre creadorxs de instrucciones e intérpretes.
 
 El objetivo de _desplegar_ es tener múltiples ediciones, en la primera (marzo 2024) el tema girará en torno a la [propuesta curatorial: cuerpo am/pm.](https://desplegar.info/curatorial.html){: target="_blank" }
