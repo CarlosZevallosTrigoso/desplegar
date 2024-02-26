@@ -38,6 +38,7 @@ Una vez elaborada la propuesta, enviarla a través del siguiente enlace en forma
 
 Revisaremos las propuestas enviadas para hacer una selección tomando como marco los criterios curatoriales [que pueden conocer aquí](https://desplegar.info/curatorial.html){: target="_blank" }. Tras la selección, convocaremos a reuniones de trabajo (presenciales o virtuales) con el objetivo de compartir y afianzar las instrucciones en relación al concepto del proyecto.
 <br />
+<br />
 
 {: .note }
 _Desplegar_ parte de una noción fundamental de colaboración entre artistas y públicos/intérpretes que problematiza la idea de autosuficiencia en la creación artística. Sin embargo, enviar una propuesta de instrucción no significa renunciar a la autoría de dicho trabajo. Todas las atribuciones serán debidamente señaladas en el documento publicado.
