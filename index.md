@@ -15,7 +15,7 @@ El proyecto tiene **dos fases:**
 - Una **primera fase** donde invitamos a [enviar propuestas de instrucciones](https://desplegar.info/instrucciones.html){: target="_blank" } que serán revisadas y seleccionadas, para luego ser **compiladas en una publicación que circulará en formato físico y digital.**
 - Una **segunda fase** donde, a partir de la publicación, motivaremos la apropiación e interpretación de dichas instrucciones, buscando generar una comunidad entre creadorxs de instrucciones e intérpretes.
 
-El objetivo de _desplegar_ es tener múltiples ediciones. En la primera (marzo 2024) el tema girará en torno a la [propuesta curatorial: cuerpo am/pm.](https://desplegar.info/curatorial.html){: target="_blank" }
+El objetivo de _desplegar_ es tener múltiples ediciones. En esta primera (marzo 2024) el tema girará en torno a la [propuesta curatorial: cuerpo am/pm.](https://desplegar.info/curatorial.html){: target="_blank" }
 
 A través de este proceso, queremos abordar algunas interrogantes: _¿Se puede pensar en la obra de arte como un flujo entre sujetos y objetos? ¿Es posible crear una comunidad en torno a la idea de un arte con una autoría colaborativa, abierta y continua? ¿Toda obra de arte posee una dimensión performativa? ¿Qué retos, mandatos y posibilidades se revelan al abordar dicha dimensión performativa?_
 <br />
