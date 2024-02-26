@@ -40,4 +40,4 @@ Revisaremos las propuestas enviadas para hacer una selección tomando como marco
 <br />
 
 {: .note }
-_Desplegar_ parte de una noción fundamental de colaboración entre artistas y públicos/intérpretes que problematiza la idea de autosuficiencia en la creación artística. Sin embargo enviar una propuesta de instrucción no implica renunciar a la autoría de dicho trabajo. Todas las atribuciones serán debidamente señaladas en el documento publicado.
+_Desplegar_ parte de una noción fundamental de colaboración entre artistas y públicos/intérpretes que problematiza la idea de autosuficiencia en la creación artística. Sin embargo, enviar una propuesta de instrucción no significa renunciar a la autoría de dicho trabajo. Todas las atribuciones serán debidamente señaladas en el documento publicado.
