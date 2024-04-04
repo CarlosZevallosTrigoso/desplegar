@@ -6,7 +6,7 @@ nav_order: 2
 
 ## **Guía para enviar una instrucción**
 
-Para participar en _desplegar_ solo debes elaborar una propuesta de [_instrucción para realizar una acción performativa_](https://desplegar.info/glosario.html#instrucciones-para-realizar-una-acci%C3%B3n-performativa){: target="_blank" } y enviarla a durante **todo marzo del 2024** en formato word o .pdf.
+Para participar en _desplegar_ solo debes elaborar una propuesta de [_instrucción para realizar una acción performativa_](https://desplegar.info/glosario.html#instrucciones-para-realizar-una-acci%C3%B3n-performativa){: target="_blank" } y enviarla **hasta el 15 de abril del 2024**.
 
 Las propuestas deben incluir lo siguiente:
 
