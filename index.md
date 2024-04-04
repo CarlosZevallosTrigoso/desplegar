@@ -22,7 +22,7 @@ A través de este proceso, queremos abordar algunas interrogantes: _¿Se puede p
 <br />
 
 {: .warning }
-Este miércoles 10 de abril a las 8:00pm realizaremos una reunión vía Zoom donde presentaremos el proyecto y resolveremos cualquier duda. Para participar solo deben inscribirse aquí: [enlace para inscribirse al Zoom.](https://us02web.zoom.us/meeting/register/tZMpdeCgqjgsHtyINoSOwz4TO6E0hLuxaNLq){: target="_blank" }
+Este **miércoles 10 de abril a las 8:00pm** realizaremos una reunión vía Zoom donde presentaremos el proyecto y resolveremos cualquier duda. Para participar solo deben inscribirse aquí: [enlace para inscribirse al Zoom.](https://us02web.zoom.us/meeting/register/tZMpdeCgqjgsHtyINoSOwz4TO6E0hLuxaNLq){: target="_blank" }
 
 {: .note }
 Es importante señalar _desplegar_ se nutre de diversas experiencias y reflexiones sobre lo procesual en la creación contemporánea y el rol del público como co-autor de sus experiencias estéticas; pueden revisarlos en [nuestra sección de referencias](https://desplegar.info/referencias.html){: target="_blank" }. Lo que nos diferencia de la mayoría de estos antecedentes es que el foco de nuestro proyecto está en la conformación de una comunidad/red de creadorxs e intérpretes.
