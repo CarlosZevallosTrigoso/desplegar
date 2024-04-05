@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-[![](/rizoma2.png)](https://rizoma.pe/){: target="_blank" }
+[![](/rizoma2.png)](https://www.instagram.com/rizoma.pe/){: target="_blank" }
 
 ## **Desplegar: procesos, secuencias, acciones, objetos, ensamblajes y cuerpos** 
 
