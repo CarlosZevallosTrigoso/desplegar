@@ -16,6 +16,8 @@ La primera edición, «Cuerpo am/pm», nació de una convocatoria abierta en 202
 
 Participan en esta edición: Ale Sotelo Guadalupe, Alex Caballero Díaz, Ana Lucía Romero, Andi García, Angela Torrejón, Cristobal del Solar, Diego Orihuela Ibañez, Hernán Hernández Kcomt, Isaac Ernesto, Johanna Saavedra Medina, Juan Baena, Juan Diego Tobalina, Julio Lugon Santos, Lucía Alfaro Valencia, Luisho Díaz, Mayra Villavicencio Príncipe, Milagros Esquivel, Natalia Villanueva Linares, Paul Susanibar, Ralph Bauer, Richard Arevalo, Sebastián Nieto Ortega, Silvana Rosan y Sofía Velázquez.
 
+Aquí puedes leer más información sobre [lxs participantes](/participantes.html) y sobre [la primera edición](/primera-edicion.html).
+
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-G12W09S1N3"></script>
