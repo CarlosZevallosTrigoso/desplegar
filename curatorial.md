@@ -1,7 +1,8 @@
 ---
 title: Propuesta curatorial
 layout: page
-nav_order: 3
+parent: Convocatorias pasadas
+nav_order: 2
 ---
 
 ## **Propuesta Curatorial**

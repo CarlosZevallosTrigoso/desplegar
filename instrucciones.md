@@ -1,10 +1,14 @@
 ---
-title: Cómo participar
+title: Convocatoria
 layout: page
-nav_order: 2
+parent: Convocatorias pasadas
+nav_order: 3
 ---
 
 ## **Guía para enviar una instrucción**
+
+{: .warning }
+**Convocatoria cerrada.** La recepción de propuestas para la primera edición terminó el 15 de abril del 2024. Dejamos la guía como registro del proceso.
 
 Para participar en _desplegar_ solo debes elaborar una propuesta de [_instrucción para realizar una acción performativa_](https://desplegar.info/glosario.html#instrucciones-para-realizar-una-acci%C3%B3n-performativa){: target="_blank" } y enviarla **hasta el 15 de abril del 2024**.
 
@@ -30,11 +34,6 @@ Esta descripción debe contar con:
 1. Enviar una propuesta a _desplegar_ implica un interés en participar de la publicación compilatoria que titularemos: "Cuaderno de Instrucciones N°1".
 2. Es importante que la acción performativa no haya sido realizada previamente y que no demande conocimientos especializados, recursos costosos ni habilidades excepcionales para su interpretación. La idea es que la mayor cantidad de personas posible se sienta en la capacidad de seguir las instrucciones y volverse un o una intérprete.
 3. Siéntanse libres de enviar propuestas, aun cuando no tengan claro si se ajustan a la guía. Luego de la selección habrá un espacio para dialogar en torno a ellas antes de la publicación.
-
-Una vez elaborada la propuesta, enviarla a través del siguiente enlace en formato de Word o .pdf: 
-
-
-[Enlace para enviar la propuesta](https://www.dropbox.com/request/KxgEtMm6eLjSj5h63D4P){: .btn .btn-purple target="_blank" }
 
 Revisaremos las propuestas enviadas para hacer una selección tomando como marco los criterios curatoriales [que pueden conocer aquí](https://desplegar.info/curatorial.html){: target="_blank" }. Tras la selección, convocaremos a reuniones de trabajo (presenciales o virtuales) con el objetivo de compartir y afianzar las instrucciones en relación al concepto del proyecto.
 <br />

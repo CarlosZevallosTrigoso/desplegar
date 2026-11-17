@@ -1,7 +1,8 @@
 ---
 title: Glosario
 layout: page
-nav_order: 5
+parent: Convocatorias pasadas
+nav_order: 4
 ---
 
 ## **Glosario**
@@ -15,7 +16,7 @@ Proponemos aproximarnos a la acción performativa como un espacio de interacció
 <br />
 
 ### Cuerpo y performatividad (subjetividades y archivo/repertorio)
-Decidimos mirar el cuerpo desde su capacidad de acción y de agencia frente al corsé que conforman los mandatos que las instituciones cristalizan en forma de dispositivos como “el género”, “la raza”, “la edad”, “la identidad”, entre otros. Esta capacidad de acción de los cuerpos evidencia que los hábitos in-corporados no son simplemente el resultado de la acumulación y sedimentación de prácticas, costumbres y/o tradiciones sino que, los cuerpos son capaces de exceder la norma mediante actos repetitivos-performativos con el poder de reelaborar los sentidos y con ello, de transformar la realidad o entorno. De esta manera, los actos performativos no solo no solo comunican significado, sino que también tienen un impacto efectivo y duradero en el mundo.
+Decidimos mirar el cuerpo desde su capacidad de acción y de agencia frente al corsé que conforman los mandatos que las instituciones cristalizan en forma de dispositivos como “el género”, “la raza”, “la edad”, “la identidad”, entre otros. Esta capacidad de acción de los cuerpos evidencia que los hábitos in-corporados no son simplemente el resultado de la acumulación y sedimentación de prácticas, costumbres y/o tradiciones sino que, los cuerpos son capaces de exceder la norma mediante actos repetitivos-performativos con el poder de reelaborar los sentidos y con ello, de transformar la realidad o entorno. De esta manera, los actos performativos no solo comunican significado, sino que también tienen un impacto efectivo y duradero en el mundo.
 <br />
 
 ### Curaduría (colaboración, sociedad, etc)

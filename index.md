@@ -1,28 +1,20 @@
 ---
-title: Sobre el proyecto
+title: Inicio
 layout: home
 nav_order: 1
 ---
 
 [![](/rizoma2.png)](https://www.instagram.com/rizoma.pe/){: target="_blank" }
 
-## **Desplegar: procesos, secuencias, acciones, objetos, ensamblajes y cuerpos** 
+{: .new }
+**Este 28 de noviembre presentaremos la primera edición de _desplegar_: «Cuerpo am/pm».**<br />
+Sábado 28 de noviembre, 5:00 p. m. Symbiosis Art, Av. Francisco Bolognesi 132, Barranco.
 
-_Desplegar_ es un proyecto que nace de una inquietud sobre la dimensión procesual y colaborativa de la producción artística contemporánea desde una dinámica particular: la compilación de _instrucciones para realizar una acción performativa_ a través de una convocatoria abierta.
+_Desplegar_ es un proyecto de [Rizoma.pe](https://rizoma.pe/){: target="_blank" } sobre la dimensión procesual y colaborativa de la producción artística contemporánea. Su punto de partida es la compilación de _instrucciones para realizar una acción performativa_: piezas textuales que describen los pasos y recursos de una acción para que otras personas puedan interpretarla desde sus propias condiciones y posibilidades.
 
-El proyecto tiene **dos fases:**
+La primera edición, «Cuerpo am/pm», nació de una convocatoria abierta en 2024. Invitamos a pensar la acción performativa poniendo atención en las disposiciones, convenciones, sujeciones, idealizaciones y artificios relacionados con la corporalidad en su organización temporal, representada en la noción de «día». Las propuestas seleccionadas forman una publicación colectiva que circulará en formato físico y digital.
 
-- Una **primera fase** donde invitamos a [enviar propuestas de instrucciones](https://desplegar.info/instrucciones.html){: target="_blank" } que serán revisadas y seleccionadas, para luego ser **compiladas en una publicación que circulará en formato físico y digital.**
-- Una **segunda fase** donde, a partir de la publicación, motivaremos la apropiación e interpretación de dichas instrucciones, buscando generar una comunidad entre creadorxs de instrucciones e intérpretes.
-
-El objetivo de _desplegar_ es tener múltiples ediciones. En esta primera (marzo 2024) el tema girará en torno a la [propuesta curatorial: cuerpo am/pm.](https://desplegar.info/curatorial.html){: target="_blank" }
-
-A través de este proceso, queremos abordar algunas interrogantes: _¿Se puede pensar en la obra de arte como un flujo entre sujetos y objetos? ¿Es posible crear una comunidad en torno a la idea de un arte con una autoría colaborativa, abierta y continua? ¿Toda obra de arte posee una dimensión performativa? ¿Qué retos, mandatos y posibilidades se revelan al abordar dicha dimensión performativa?_
-<br />
-<br />
-
-{: .note }
-Es importante señalar _desplegar_ se nutre de diversas experiencias y reflexiones sobre lo procesual en la creación contemporánea y el rol del público como co-autor de sus experiencias estéticas; pueden revisarlos en [nuestra sección de referencias](https://desplegar.info/referencias.html){: target="_blank" }. Lo que nos diferencia de la mayoría de estos antecedentes es que el foco de nuestro proyecto está en la conformación de una comunidad/red de creadorxs e intérpretes.
+Participan en esta edición: Ale Sotelo Guadalupe, Alex Caballero Díaz, Ana Lucía Romero, Andi García, Angela Torrejón, Cristobal del Solar, Diego Orihuela Ibañez, Hernán Hernández Kcomt, Isaac Ernesto, Johanna Saavedra Medina, Juan Baena, Juan Diego Tobalina, Julio Lugon Santos, Lucía Alfaro Valencia, Luisho Díaz, Mayra Villavicencio Príncipe, Milagros Esquivel, Natalia Villanueva Linares, Paul Susanibar, Ralph Bauer, Richard Arevalo, Sebastián Nieto Ortega, Silvana Rosan y Sofía Velázquez.
 
 
 <!-- Google tag (gtag.js) -->
