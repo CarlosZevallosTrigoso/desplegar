@@ -23,41 +23,29 @@ Conceptualmente enmarco mi trabajo dentro de preocupaciones identitarias en lo L
 
 ### Ana Lucía Romero {#ana-lucia-romero}
 
-Artista transdisciplinaria en performance, artes visuales y poesía, con énfasis en investigación-creación. Egresada de la maestría de investigación en Estudios Culturales. Bachillera en derecho y ciencia política. Bachillera en artes visuales.
-
-Ante una censura a una de sus obras, generó un arte jurídico, cuyo accionar fue recogido como “Caso emblemático de Libertad de Expresión” en un Informe Anual de la Defensoría del Pueblo. Finalista del Premio Icpna Arte Contemporáneo (2024 y 2023)
+(Chimbote, 1990) Artista transdisciplinar en performance, artes visuales y poesía, con énfasis en investigación-creación. Magíster en estudios culturales con una tesis sobre la oligarquía peruana del siglo XXI. Bachiller en arte visual, con mención en pintura, y bachiller en derecho y ciencia política por universidades públicas. Su práctica artística ha estado centrada en abordar el uso del lenguaje del opresor (Adrienne Rich) en el arte, pero también en la vida. Ante una censura a una de sus obras, generó un arte jurídico, cuyo accionar fue recogido como “Caso emblemático de Libertad de Expresión” en un Informe Anual de la Defensoría del Pueblo.
 
 **Contacto:** [analuciaromero.r@gmail.com](mailto:analuciaromero.r@gmail.com)<br />
 **IG:** [@analuciaromero\_r](https://www.instagram.com/analuciaromero_r/){: target="_blank" }
 
 ### Andi García {#andi-garcia}
 
-Recurro a lo fantástico como un medio para historiar la diferencia, frente al ordenamiento colonial de una identidad e historia antropocéntrica y binaria. Abordo estas preocupaciones a partir de narrativas personales y ejercicios de memoria; y a su vez, profundizando en cómo existencias desobedientes, y relaciones ancestrales con la vida, la muerte y lo inmaterial, desafían cotidianamente los ideales que han condicionado nuestros sentidos de bienestar.
+Recurro a lo fantástico como medio para explorar formas de historiar la diferencia, entendiéndola como fisuras atemporales que desajustan las estructuras del orden social. Parto de narrativas personales para profundizar en cómo ciertas existencias se despliegan en lo cotidiano, atravesadas y también moldeadas por violencias coloniales y binarias.
 
 **Contacto:** [andigarcia.ro@gmail.com](mailto:andigarcia.ro@gmail.com)<br />
 **IG:** [@andigar\_\_](https://www.instagram.com/andigar__/){: target="_blank" }
 
 ### Angela Torrejón {#angela-torrejon}
 
-Angela Torrejón (Lima, 1994) es artista visual. En su trabajo artístico explora las posibilidades de las prácticas textiles como el bordado, el tejido y el collage, resaltando su capacidad discursiva y reivindicativa para abordar temas como la fragilidad del tiempo, los espacios cotidianos, el trabajo de reproducción social desde lo doméstico y su propia corporalidad como vehículo metafórico de significados.
-
-Actualmente estudia, vive y siente entre Lima y Buenos Aires.
+(Lima, 1994) Es artista visual y maestranda en Conservación y Restauración en la Universidad Nacional de San Martín de Buenos Aires. Su práctica artística e investigativa se orienta hacia los textiles, desde la comprensión de su manufactura hasta su uso metafórico. Le interesa profundizar en la corporalidad, la ensoñación y las identidades lésbicas desde una mirada sensible y crítica. Siente, estudia y trabaja en Buenos Aires, Argentina.
 
 **Contacto:** [angelatorrejon94@gmail.com](mailto:angelatorrejon94@gmail.com)<br />
 **IG:** [@angelatorrejon\_](https://www.instagram.com/angelatorrejon_/){: target="_blank" }<br />
-**Web:** [https://drive.google.com/file/d/1-hkXhuilNY-aTK1dBlGL\_IWzAwGBVxko/view?usp=drive\_link](https://drive.google.com/file/d/1-hkXhuilNY-aTK1dBlGL_IWzAwGBVxko/view?usp=drive_link){: target="_blank" }
+**Web:** [https://drive.google.com/file/d/19oyn5bczNq4CsZXYde1C9PfeQfJcrOeq/view?usp=sharing](https://drive.google.com/file/d/19oyn5bczNq4CsZXYde1C9PfeQfJcrOeq/view?usp=sharing){: target="_blank" }
 
 ### Cristobal del Solar {#cristobal-del-solar}
 
-Mi trabajo gira en torno a cómo el cuerpx se ve transformado por la experiencia del lenguaje. Más específicamente cómo la humanidad,
-
-a través de sus idearios de orden, sanidad y limpieza; condiciona al cuerpo vivo en todas sus dimensiones.
-
-Con la intención de subvertir los idearios de orden mencionados anteriormente, he realizado una serie de intervenciones y
-
-performances en Lima y sus alrededores. Estas mismas plantean situaciones que evidencian cómo la relación que tenemos con
-
-nuestro propio cuerpo y el mundo natural, se encuentra llena de fricciones.
+Mi trabajo gira en torno a cómo el cuerpx se ve transformado por la experiencia del lenguaje. Más específicamente cómo la humanidad, a través de sus idearios de orden, sanidad y limpieza; condiciona al cuerpo vivo en todas sus dimensiones. Con la intención de subvertir los idearios de orden mencionados anteriormente, he realizado una serie de intervenciones y performances en Lima y sus alrededores. Estas mismas plantean situaciones que evidencian cómo la relación que tenemos con nuestro propio cuerpo y el mundo natural, se encuentra llena de fricciones.
 
 **Contacto:** [cristobaldelsolar@gmail.com](mailto:cristobaldelsolar@gmail.com)<br />
 **IG:** [@cringestobal](https://www.instagram.com/cringestobal/){: target="_blank" }
@@ -79,7 +67,7 @@ Trujillo, 1987. Fotógrafo formado en el Centro de la Imagen y en la Maestría e
 
 ### Isaac Ernesto {#isaac-ernesto}
 
-Desde los inicios de mi práctica artística, he desarrollado una serie de trabajos autobiográficos que exploran mi experiencia como hijo de dirigentes del Movimiento Revolucionario Túpac Amaru, en el marco de la violencia y la represión que afectaron al Perú en las décadas de los ochenta y noventa. Esta experiencia vital me permite explorar críticamente las nociones de ciudadanía, raza, clase social, nación, lo privado, lo público, la memoria, el olvido, lo proscrito, lo permitido, lo propio y lo ajeno. En mis trabajos recientes, si bien parecen no desprenderse de la premisa antes mencionada, son una extensión de mi existencia en el presente, en donde el viaje a Europa me permite pensar la migración no blanca como sinónimo de cuerpos prescindibles, sin nación ni derechos, misma situación que experimentan las familias cuyos miembros militaron en los grupos alzados en armas y derrotados por la dictadura de Alberto Fujimori en Perú.
+Mi trabajo se sostiene en experiencias autobiográficas como hijo de dirigentes del Movimiento Revolucionario Túpac Amaru durante el periodo de violencia política en el Perú (1980–2000). Desde ahí, exploro críticamente nociones como ciudadanía, raza, clase, memoria y poder. En mis obras más recientes, vinculadas a mi proceso migratorio en Europa, reflexiono sobre la migración no blanca como símbolo de cuerpos desechables y sin derechos, estableciendo un paralelismo con las familias perseguidas tras la derrota de los grupos insurgentes bajo la dictadura de Fujimori.
 
 De otro lado, la factura precaria de mi trabajos permite producir sentido fuera del aspecto formal de cada proyecto, generando así una aproximación dislocada en los márgenes de lo que entendemos como “obra de arte”.
 
@@ -87,9 +75,9 @@ De otro lado, la factura precaria de mi trabajos permite producir sentido fuera 
 **IG:** [@isaacernestorv](https://www.instagram.com/isaacernestorv/){: target="_blank" }<br />
 **Web:** [https://www.isaacernesto.com](https://www.isaacernesto.com){: target="_blank" }
 
-### Johanna Saavedra Medina {#johanna-saavedra-medina}
+### Johanna Saavedra {#johanna-saavedra}
 
-Licenciada en Literatura por la UNFV. Sus fuentes de exploración artística han sido la escritura y la música. Mediante ellas (re)pensar, (re)interpretar y (re)crear el paradigma de realidad desde perspectivas críticas la han llevado a seguir estudios especializados y a participar en variados proyectos literarios, editoriales y culturales. Entre ellos destacan la coordinación de "Voces disruptivas: narradoras peruanas de lo insólito del siglo XX al XXI", proyecto ganador en 2023 de los estímulos económicos del Mincul, asimismo, la coordinación del I Seminario Internacional: Narradoras de lo Insólito en América Latina (2023) en Casa de la Literatura Peruana y la coedición de la publicación Escritoras peruanas de lo insólito. Antología de cuentos: siglos XX-XXI (2023) en la misma institución.
+Licenciada en Literatura por la UNFV. Sus fuentes de exploración artística han sido la escritura y la música. Mediante ellas (re)pensar, (re)interpretar y (re)crear el paradigma de realidad desde perspectivas críticas la han llevado a seguir estudios especializados y a participar en variados proyectos literarios, editoriales y culturales. Entre ellos destacan la coordinación de “Voces disruptivas: narradoras peruanas de lo insólito del siglo XX al XXI”, proyecto ganador en 2023 de los estímulos económicos del Mincul, asimismo, la coordinación del I Seminario Internacional: Narradoras de lo Insólito en América Latina (2023) en Casa de la Literatura Peruana y la coedición de la publicación Escritoras peruanas de lo insólito. Antología de cuentos: siglos XX-XXI (2023) en la misma institución.
 
 **Contacto:** [johanna28sm@gmail.com](mailto:johanna28sm@gmail.com)
 
@@ -104,10 +92,6 @@ Soy artista plástico, gestor cultural, investigador y curador independiente de 
 ### Juan Diego Tobalina {#juan-diego-tobalina}
 
 Juan Diego Tobalina (Lima, 1982) es artista visual y sonoro licenciado por la Facultad de Bellas Artes de la Universidad de Barcelona (2008) habiendo estudiado la primera mitad de la carrera en la Universidad Católica del Perú (2000 – 2003). Es miembro del proyecto de arte independiente Bisagra (bisagra.org), así como del espacio Enhorabuena en Madrid, también integrante de la Colección Cooperativa Contemporánea de Perú. Vive actualmente en Madrid.
-
-Su obra ha formado parte de exposiciones individuales y colectivas en galerías, espacios y museos en varios países de latinoamerica y Europa.
-
-Ha sido ganador del premio “Pasaporte para un Artista 2012”, organizado por la embajada de Francia en Perú y participado en las residencias “Bilbaoarte 2023” (beca de producción y residencia artística), “Triangle France” en Marsella, 2018, “Sommerakademie 2014 um Zentrum Paul Klee”, en Berna, “Cité des Arts 2013 ” en Paris.
 
 **Contacto:** [contact@juandiegotobalina.com](mailto:contact@juandiegotobalina.com)<br />
 **IG:** [@juandiego\_tobalina](https://www.instagram.com/juandiego_tobalina/){: target="_blank" }<br />
@@ -131,32 +115,28 @@ Artista visual peruana. Es bachiller en Comunicación Audiovisual en la PUCP y a
 
 ### Luisho Díaz {#luisho-diaz}
 
-Es Licenciado en Diseño Industrial por la Universidad ORT Uruguay y Gestor Cultural por la Fundación Itaú. En 2016 gana el Fondo de Estímulo para la Formación y Creación Artística y el primer premio en Performance de Imagina MVD2030. En 2017 realiza las residencias "Habeas Data IV" en San Pablo (Brasil) y "Social Summercamp VIII" en Villa Alegre (Chile). En 2021 realiza la residencia "El Umbral. Derivas performativas, cuerpo y territorio" en Maldonado (Uruguay). Desde 2012 participa en exposiciones y festivales en Uruguay, Brasil, Chile, Argentina, México, Estados Unidos, Italia y España. En 2018 fue seleccionado en el 58° Premio Nacional de Artes Visuales.
+Es Licenciado en Diseño Industrial por la Universidad ORT Uruguay y Gestor Cultural por la Fundación Itaú. En 2016 gana el Fondo de Estímulo para la Formación y Creación Artística y el primer premio en Performance de Imagina MVD2030. En 2017 realiza las residencias “Habeas Data IV” en San Pablo (Brasil) y “Social Summercamp VIII” en Villa Alegre (Chile). En 2021 realiza la residencia “El Umbral. Derivas performativas, cuerpo y territorio” en Maldonado (Uruguay). Desde 2012 participa en exposiciones y festivales en Uruguay, Brasil, Chile, Argentina, México, Estados Unidos, Italia y España. En 2018 fue seleccionado en el 58° Premio Nacional de Artes Visuales.
 
 **Contacto:** [luisho.diaz@gmail.com](mailto:luisho.diaz@gmail.com)<br />
 **IG:** [@luishodiaz](https://www.instagram.com/luishodiaz/){: target="_blank" }
 
 ### Mayra Villavicencio Príncipe {#mayra-villavicencio-principe}
 
-Investigadora y creadora visual. Mi trabajo se centra en la investigación sobre la violencia política en Perú y en los regímenes visuales. A través del cine, he abordado el archivo afectivo y los discursos políticos que buscan construir otras narrativas.
+Creadora visual, programadora e investigadora. Su trabajo explora la relación entre el archivo afectivo y los discursos políticos, con interés en las narrativas experimentales. Ha participado en espacios de cine y arte como LAB Proceso de Error, DokLab Residencia Documental, Matadero Madrid y Talents Buenos Aires. Como creadora, ha realizado los cortometrajes CASSETT 6 (2019) y El polvo ya no nubla nuestros ojos (2022), como parte del Colectivo Silencio, obras que han sido exhibidas en festivales y muestras tanto nacionales como internacionales. Actualmente, forma parte del equipo de programación del Festival Internacional de Apropiación Audiovisual MUTA, en Perú, y trabaja en el desarrollo de su primer largometraje, Variaciones de una protesta.
 
 **Contacto:** [villavicencio.principe@gmail.com](mailto:villavicencio.principe@gmail.com)<br />
 **IG:** [@wayravil](https://www.instagram.com/wayravil/){: target="_blank" }
 
 ### Milagros Esquivel {#milagros-esquivel}
 
-soy una mujer situada en una casa que debo limpiar, cuando eso acaba tomo una ducha y me lleno de nuevos propósitos, entonces bailo o escribo, hasta que empiezo a dormir, entonces todo depende de las coordenadas o del lugar de donde se mire. qué es sino el teatro (obviar mayúsculas)
+soy una mujer situada en una casa que debo limpiar, cuando eso acaba tomo una ducha y me lleno de nuevos propósitos, entonces bailo o escribo, hasta que empiezo a dormir, entonces todo depende de las coordenadas o del lugar de donde se mire. qué es sino el teatro.
 
 **Contacto:** [profesoramilagros@gmail.com](mailto:profesoramilagros@gmail.com)<br />
 **IG:** [@milaes1000a](https://www.instagram.com/milaes1000a/){: target="_blank" }
 
-### Natalia Villanueva Linares {#natalia-villanueva-linares}
+### Natalia Villanueva {#natalia-villanueva}
 
-Natalia Villanueva Linares es una hacedora multidisciplinaria de origen franco-peruano. Se graduó con honores de la Escuela Nacional de Bellas Artes de París. Actualmente reside en Chicago, trabaja entre América del Norte, América del Sur y Europa.
-
-Natalia habla de cantidades excesivas y en objetos sencillos que irradian poder. Transmutando objetos encontrados, desgastados, viejos o encontrados en la banalidad de la vida cotidiana, Natalia utiliza la destrucción como forma de distribución. Con una relación animista con ciertos materiales, invita a otros a sentir la magnitud de su generosidad. El concepto de matemáticas sensibles habita gran parte de su obra, ya sea a través de la abundancia de gestos y objetos, o en su relación con el espacio y la temporalidad. Sus piezas monumentales revelan su magnético afecto por las grandes colecciones, acompañado de una noción de continuidad que comunica lo inmenso y lo diminuto.
-
-Natalia ha desarrollado una serie continua de performances nómadas en las que los participantes activan objetos. Su objetivo es integrar tanto estos objetos, así como las experiencias creadas y vividas por los performers en los archivos de la humanidad. A través de su proyecto "La Biblioteca de los Gestos", busca cuestionar la historia del arte y su legado.
+Natalia Villanueva Linares es una hacedora multidisciplinaria de origen franco-peruano. Se graduó con honores de la Escuela Nacional de Bellas Artes de París. Actualmente reside en Chicago, trabaja entre América del Norte, América del Sur y Europa. Natalia habla de cantidades excesivas y en objetos sencillos que irradian poder. Transmutando objetos encontrados, desgastados, viejos o encontrados en la banalidad de la vida cotidiana, Natalia utiliza la destrucción como forma de distribución. Con una relación animista con ciertos materiales, invita a otros a sentir la magnitud de su generosidad. El concepto de matemáticas sensibles habita gran parte de su obra, ya sea a través de la abundancia de gestos y objetos, o en su relación con el espacio y la temporalidad. Sus piezas monumentales revelan su magnético afecto por las grandes colecciones, acompañado de una noción de continuidad que comunica lo inmenso y lo diminuto.
 
 **Contacto:** [la.petite.pluie@gmail.com](mailto:la.petite.pluie@gmail.com)<br />
 **IG:** [@nati.work](https://www.instagram.com/nati.work/){: target="_blank" }<br />
@@ -171,65 +151,25 @@ Pintor formado en la Escuela Nacional de Bellas Artes. El 2018 egresó con la pr
 
 ### Ralph Bauer {#ralph-bauer}
 
-Ralph Bauer
-
 Es diseñador gráfico y artista visual diplomado por la Universidad de Ciencias Aplicadas de Mainz, Alemania. Participó en el programa de estudios de posgrado en la Jan van Eyck Academy, Holanda.
 
-Trabaja sobre lenguaje y comuni­cación, y investiga los espacios públicos de la ciudad de Lima y el aspecto de la naturaleza dentro de la misma.
+Trabaja sobre lenguaje y comunicación, y investiga los espacios públicos de la ciudad de Lima y el aspecto de la naturaleza dentro de la misma.
 
-Entre sus exposiciones individuales están ´Unbekannte Pflanze / Planta desconocida´, ´and i try and i try and i try´ o ´dice, sagt, says:´.
-
-Es autor de libros, entre otros ´el tigre en el taxi´, ´amarillo´ y ´Hol-A ´.
-
-Es socio en vm& estudio gráfico.
+Entre sus exposiciones individuales están ´Unbekannte Pflanze / Planta desconocida´, ´and i try and i try and i try´ o ´dice, sagt, says:´. Es autor de libros, entre otros ´el tigre en el taxi´, ´amarillo´, ´viaje´ y ´Hol-A ´. Es socio en vm& estudio gráfico.
 
 **Contacto:** [baueralph@gmail.com](mailto:baueralph@gmail.com)<br />
 **IG:** [@baueralphbaueralph](https://www.instagram.com/baueralphbaueralph/){: target="_blank" }
 
 ### Richard Arevalo {#richard-arevalo}
 
-RICHARD SMITH ARÉVALO OLIVOS
-
-ARTISTA VISUAL Y DISEÑADOR GRÁFICO, estudios realizados en la Escuela Superior de Arte “IGNACIO MERINO” Piura.
-
-Ha realizado las siguientes Exposiciones Individuales:
-
- RETORNO DEL COLIBRÍ Centro cultural cholo terco Barranco (Lima-2024).
-
- NO QUIERO IR, NADA MÁS, QUE HASTA EL FONDO…DE LOS HECHOS Galería
-
-Fugaz, Monumental (Callao-2023).
-
- NO QUIERO IR, NADA MÁS, QUE HASTA EL FONDO…DE LOS HECHOS Salón
-
-“Victor Borrero Vargas.” Municipalidad de Sullana (Sullana-2023).
-
- UKU PACHA Sala Constitucional, Monumental (Callao-2022).
-
- ¿IDENTIDAD? Galería Fugaz, Monumental (Callao-2021).
-
- MUNDO DE ARRIBA, MUNDO DE ABAJO, MUNDOS ACTUALES Galería ICPNA San
-
-Miguel (Lima-2020).
-
- VESTIGIOS RADIOGRÁFICOS Galería Paradero Cultural (Lima-2019).
-
- REPLIEGUES DEL CARBÓN José Antonio Art Galery Barranco (Lima-2017).
-
- FACTORY Museo Vicús (Piura-2011).
-
- TRASCENDENCIA FÍSICA Museo Vicús (Piura-2008).
-
- LA DE-FUNCIÓN DE LA ALEGRÍA (Sullana 2004).
+Mi obra se desarrolla en torno al plano contextual - conceptual, partiendo de allí, la materia y el lenguaje transmutan, propiciando multiplicidad de significancias... que se ajustan a hechos históricos y de incidencia durante periodos de tiempo. La identidad como elemento principal de mi obra, lleva a cuestionarnos qué lugar ocupamos en el espacio donde nos encontramos. Como país multifacético es propicio generar la investigación pluricultural para cohesionar y desde el conocimiento reconocer de dónde venimos.
 
 **Contacto:** [rao.olivos@gmail.com](mailto:rao.olivos@gmail.com)<br />
 **IG:** [@richardarevalo\_rao](https://www.instagram.com/richardarevalo_rao/){: target="_blank" }
 
 ### Sebastián Nieto Ortega {#sebastian-nieto-ortega}
 
-En la búsqueda de poder expresar conceptos como el tiempo, la relatividad, los agujeros negros, etc., de manera gráfica y mediante el dibujo, desde su mínima esencia, nacen estas instrucciones.
-
-Buscando alejarse lo más posible de la representación figurativa, matemática y científica, está la inquietud de percibir consciente o inconscientemente dichos conceptos de manera que puedan ser repensados a partir de los rastros de diferentes actividades cotidianas. Encontrando más preguntas detonadoras que respuestas certeras desde estos dibujos resultantes.
+En la búsqueda de poder expresar conceptos como el tiempo, la relatividad, los agujeros negros, etc., de manera gráfica y mediante el dibujo, desde su mínima esencia, nacen estas instrucciones. Buscando alejarse lo más posible de la representación figurativa, matemática y científica, está la inquietud de percibir consciente o inconscientemente dichos conceptos de manera que puedan ser repensados a partir de los rastros de diferentes actividades cotidianas. Encontrando más preguntas detonadoras que respuestas certeras desde estos dibujos resultantes.
 
 **Contacto:** [snietortega@gmail.com](mailto:snietortega@gmail.com)<br />
 **IG:** [@se.ni.or](https://www.instagram.com/se.ni.or/){: target="_blank" }<br />
@@ -245,7 +185,7 @@ Me gusta combinar elementos y archivos encontrados con intervenciones digitales.
 
 ### Sofía Velázquez {#sofia-velazquez}
 
-Trabajo con la imagen en movimiento, el montaje y la escritura. A través de estas prácticas entrelazadas, intento explorar estructuras y posibilidades. He realizado la película De todas las cosas que se han de saber (2021) entre otros cortos y largos. Estoy en proceso de creación de El coloquio de los pájaros y Es aquí donde vivo, esta última en colaboración con la artista libanesa Carine Doumit.
+Trabajo con la imagen en movimiento, el montaje y la escritura. A través de estas prácticas entrelazadas intento explorar estructuras y posibilidades expresivas, últimamente relacionadas con la vejez y la insubordinación. He realizado la película De todas las cosas que se han de saber (2021) entre otros cortos y largos y estoy en proceso de creación de El coloquio de los pájaros. Tengo un poemario no publicado titulado Mil cabezas.
 
 **Contacto:** [sofivelazquez@gmail.com](mailto:sofivelazquez@gmail.com)<br />
 **IG:** [@sofiavelazquezn](https://www.instagram.com/sofiavelazquezn/){: target="_blank" }<br />
