@@ -2,7 +2,7 @@
 title: Participantes
 layout: page
 parent: "Primera edición: cuerpo am/pm"
-nav_order: 2
+nav_order: 1
 ---
 
 ## **Participantes**
